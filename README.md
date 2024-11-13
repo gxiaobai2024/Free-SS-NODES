@@ -5,6 +5,7 @@
 ### 一、点个Star，然后点击Fork
 `Star!!!Star!!!Star!!!`
 ### 二、开启工作流
+ 点击操作 后点击免费ss  点击 运行工作
 在Actions那里开启
 ### 三、在工作流执行完成之后可以在build种找到ss节点如下图：
 ![img.png](img/img.png)
